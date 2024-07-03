@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently working on RAG apps<br>🧠 Interested in AI research<br>🤝 Wish to collaborate in research projects
+A passionate Deep learning Engineer 😁<br>🚀 Currently working on RAG apps<br>🧠 Interested in AI research<br>🤝 Wish to collaborate in research projects
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AJAYC) 
 
